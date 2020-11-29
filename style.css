@@ -5,3 +5,8 @@
     background-color:rgb(190, 174, 172);
     color: maroon;
 }
+#answer{
+    visibility: hidden;
+    position: absolute;
+    top:0;
+}
